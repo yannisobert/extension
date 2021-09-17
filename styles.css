@@ -25,3 +25,9 @@
 .social-sidebar .menu .accordion-group .accordion-heading .accordion-toggle {
    
     color: beige;
+}
+.table-bordered{
+
+        border-radius: 20px;
+        box-shadow: 1px 1px 5px grey;
+}
