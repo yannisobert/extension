@@ -5,7 +5,7 @@
 
 
 .override{
-    background: linear-gradient(to bottom right, orange, white);
+    background: linear-gradient(to right, orange, white);
     background-repeat: no-repeat;
 }
 .bouton{
