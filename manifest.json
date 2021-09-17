@@ -10,7 +10,7 @@
       {
         "matches": ["*://*.leonard-de-vinci.net/*"],
         "js": ["script.js"],
-        "css": ["style.css"]
+        "css": ["styles.css"]
       }
     ]
  
