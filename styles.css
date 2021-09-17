@@ -22,6 +22,6 @@
     background-color: orangered;
 }
 
-.accordion-toggle{
+.social-sidebar .menu .accordion-group .accordion-heading .accordion-toggle {
+   
     color: beige;
-}
