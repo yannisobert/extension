@@ -1,5 +1,5 @@
 .override{
-    background-color: red;
+    background: linear-gradient(to bottom right, orange, white);
 }
 .bouton{
     border-radius: 20px;
