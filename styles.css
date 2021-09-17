@@ -1,12 +1,12 @@
 .override{
     background-color: red;
 }
-.btn{
+.bouton{
     border-radius: 20px;
 
 
 }
-.btn:hover{
+.bouton:hover{
     color: rgba(0, 0, 0, 0.3);
 
 }
