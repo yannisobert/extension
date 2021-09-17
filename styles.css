@@ -1,3 +1,9 @@
+*{
+    font-family: Noto Serif;
+}
+
+
+
 .override{
     background: linear-gradient(to bottom right, orange, white);
     background-repeat: no-repeat;
