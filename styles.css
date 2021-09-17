@@ -6,7 +6,6 @@
 
 .override{
     background: linear-gradient(to right, orange, white);
-    background-repeat: no-repeat;
 }
 .bouton{
     border-radius: 20px;
