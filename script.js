@@ -1,3 +1,3 @@
 document.getElementsByTagName('body')[0].classList.add('override')
 
-document.getElementsByClassName('btn')[0].classList.add('bouton')
+window.alert("Croisons les doigts avant d'alelr voir les notes ;)");
