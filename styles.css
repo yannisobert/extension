@@ -1,33 +1,46 @@
 *{
-    font-family: Noto Serif;
+    font-family: "Bebas Neue";
 }
 
 
 
 .override{
-    background: linear-gradient(to right, orange, white);
+    background: lightgrey;
 }
-.bouton{
-    border-radius: 20px;
 
-
-}
-.bouton:hover{
-    color: rgba(0, 0, 0, 0.3);
-
-}
 
 .scrollable
 {
-    background-color: orangered;
+    background-color: #3D4C53;
 }
 
 .social-sidebar .menu .accordion-group .accordion-heading .accordion-toggle {
    
-    color: beige;
+    color: white;
 }
 .table-bordered{
 
         border-radius: 20px;
         box-shadow: 1px 1px 5px grey;
 }
+
+.btn-inverse{
+    background-color: #4DB3B3;
+}
+
+.fc-content{
+    border: 10px red;
+}
+
+.social-navbar{
+    background-color: #3D4C53;
+}
+
+.social-box.social-blue .header, .social-box.social-blue header, .social-box.social-blue .footer, .social-box.social-blue footer{
+    border-radius: 30px;
+}
+
+.social-box.social-blue.social-bordered{
+    border-radius: 25px;
+}
+
